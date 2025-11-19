@@ -12,6 +12,12 @@ The objective is to analyse synthetic WhatsApp-style health conversations using 
 ---
 
 ## 📁 Repository Structure
+```text
+├── pal_ai_solutions_assignment.ipynb      # Main notebook (required submission)
+├── health_ai_whatsapp_100_conversations_long.txt
+├── conversation_risk_scores_and_plans.csv
+└── README.md
+
 
 
 
